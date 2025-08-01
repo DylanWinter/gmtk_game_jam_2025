@@ -10,7 +10,7 @@ _data = {
 point_count = 7
 
 [node name="NPC" instance=ExtResource("1_5pbqx")]
-conversationTimes = ["1:20|-598.0|-445.0", "0:30|-177.0|-453.0"]
+conversationTimes = ["1:20|-598.0|-445.0", "0:30|-177.0|-453.0", "0:12|-100|-50", null]
 
 [node name="npcSprite" parent="." index="0"]
 self_modulate = Color(0, 0.486115, 0.94226, 1)
